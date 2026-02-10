@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f7ff;
+    color: #003366;
+    padding: 20px;
+}
+
+.main-wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: #0056b3;
+}
+
+#container-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.opportunity-card {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 86, 179, 0.1);
+    border: 1px solid #d1e3f8;
+    border-left: 6px solid #0056b3;
+    text-align: left;
+}
+
+.opportunity-card h3 {
+    margin-top: 0;
+    color: #0056b3;
+}
+
+button {
+    padding: 12px 24px;
+    background-color: #0056b3;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #003d80;
+}
