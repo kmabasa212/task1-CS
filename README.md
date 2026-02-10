@@ -1,7 +1,11 @@
-# Maths Opportunities
-A white and blue themed webpage listing maths opportunities.
+# Math Careers Project
 
-## Style
-- Blue headers and buttons.
-- White cards with blue shadows.
-- Clean and simple layout.
+A simple website listing math opportunities using HTML, CSS, and JavaScript.
+
+## Tech Used
+- HTML: Page structure
+- CSS: Blue and white styling
+- JavaScript: Dynamic content using arrays and objects
+
+## How to Run
+Open `index.html` in your browser.

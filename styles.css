@@ -1,0 +1,56 @@
+body {
+    font-family: Arial;
+    background: #e6f7ff;
+    padding: 25px;
+}
+
+.head {
+    text-align: center;
+    background: #00509e;
+    color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.job {
+    background: white;
+    width: 200px;
+    padding: 18px;
+    border: 1px solid #ddd;
+}
+
+.t {
+    background: #00509e;
+    color: white;
+    padding: 5px 10px;
+    font-size: 13px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+h3 {
+    margin: 10px 0;
+    color: #00509e;
+}
+
+p {
+    color: #555;
+    font-size: 14px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background: white;
+    color: #00509e;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
